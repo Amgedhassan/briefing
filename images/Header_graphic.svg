@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1440" height="663" viewBox="0 0 1440 663">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_452" data-name="Rectangle 452" width="1440" height="663" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <filter id="Ellipse_9" x="1065" y="-42" width="845" height="753" filterUnits="userSpaceOnUse">
+      <feOffset dx="50" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_6" x="-324" y="48" width="743" height="663" filterUnits="userSpaceOnUse">
+      <feOffset dx="50" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Header_graphic" clip-path="url(#clip-path)">
+    <g id="Header_graphic-2" data-name="Header_graphic" transform="translate(-481 -473.824)">
+      <rect id="pexels-burak-k-187041" width="1440" height="663" transform="translate(481 473.824)" fill="#5596bd"/>
+      <g id="Group_352" data-name="Group 352" transform="translate(1546 473.824)">
+        <ellipse id="Ellipse_8" data-name="Ellipse 8" cx="375" cy="331.5" rx="375" ry="331.5" transform="translate(0)" fill="#5596bd"/>
+        <g transform="matrix(1, 0, 0, 1, -1065, 0)" filter="url(#Ellipse_9)">
+          <g id="Ellipse_9-2" data-name="Ellipse 9" transform="translate(1065)" fill="#5596bd" stroke="#4885aa" stroke-width="150" opacity="0.52">
+            <ellipse cx="375" cy="331.5" rx="375" ry="331.5" stroke="none"/>
+            <ellipse cx="375" cy="331.5" rx="300" ry="256.5" fill="none"/>
+          </g>
+        </g>
+      </g>
+      <g id="Ellipse_4" data-name="Ellipse 4" transform="translate(0 -0.176)" fill="#5596bd" stroke="#4885aa" stroke-width="150" opacity="0.52">
+        <ellipse cx="481" cy="425.5" rx="481" ry="425.5" stroke="none"/>
+        <ellipse cx="481" cy="425.5" rx="406" ry="350.5" fill="none"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 481, 473.82)" filter="url(#Ellipse_6)">
+        <g id="Ellipse_6-2" data-name="Ellipse 6" transform="translate(-324 90)" fill="#5596bd" stroke="#4885aa" stroke-width="150" opacity="0.52">
+          <ellipse cx="324" cy="286.5" rx="324" ry="286.5" stroke="none"/>
+          <ellipse cx="324" cy="286.5" rx="249" ry="211.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
